@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109254653312",
+    "project_id": "crime-49c2d",
+    "storage_bucket": "crime-49c2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109254653312:android:1231f8a50db749d453fd65",
+        "android_client_info": {
+          "package_name": "com.crime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109254653312-pn476jngi0u0s3gfda7h5chfik88re8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDElOIwa5o3wBa-6yOT5Vi6HV3W0UfRdtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109254653312-pn476jngi0u0s3gfda7h5chfik88re8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
